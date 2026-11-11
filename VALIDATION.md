@@ -9,4 +9,4 @@
 
 Live MySQL CRUD, password login against the configured database, upload persistence, and Hostinger redeployment persistence require the actual Hostinger environment and remain unverified.
 
-GitHub publication is pending repository write access. Hostinger deployment is not completed.
+Hostinger deployment is not completed. Follow README.md to connect this repository and configure the database and owner login.
